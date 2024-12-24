@@ -5,8 +5,8 @@
 ## Structure du Projet
 
 ### 1. Fichiers Clés
-- **Diagramme UML Livrable 4.pdf** : Schéma UML présentant la structure et les interactions principales de l'application.
-- **RapportDeProjet_Groupe28.pdf** : Rapport détaillant les objectifs, fonctionnalités et développement du projet.
+- **Diagramme UML.pdf** : Schéma UML présentant la structure et les interactions principales de l'application.
+- **RapportDeProjet.pdf** : Rapport détaillant les objectifs, fonctionnalités et développement du projet.
 - **app-debug.apk** : Version installable de l'application pour test.
 
 ### 2. Dossier `app`
