@@ -19,8 +19,3 @@
 1. Découvrir une variété de repas proposés par des cuisiniers locaux.
 2. Commander des repas en quelques clics.
 3. Gérer les commandes et le suivi des livraisons.
-
-## Instructions pour l'Installation
-1. Clonez le dépôt :
-   ```bash
-   git clone <URL-du-dépôt>
